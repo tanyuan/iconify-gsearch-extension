@@ -1,0 +1,14 @@
+/* background.css
+ *
+ * Author: tanyuan
+ *
+ * Taipei, 2016
+ *
+ */
+
+.iconify {
+    background-repeat: no-repeat;
+    background-position: center left;
+    padding-left: 28px !important;
+}
+
